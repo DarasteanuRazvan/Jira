@@ -1,7 +1,11 @@
 
 # Welcome to my Jira Repository!
 
-Hello there! 👋 Welcome to this repository where I've documented my work on the Jira project. Here's a glimpse of what you'll find:
+Hello there! 👋 Welcome to this repository where I've documented my work on the Jira project. 
+
+This is just a preview! For the full code, please contact me and i will grant a collaborator access for you. Thank you!
+
+Here's a glimpse of what you'll find:
 
 ## Project Overview
 
